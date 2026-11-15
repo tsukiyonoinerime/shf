@@ -4,5 +4,31 @@
   "artist": "Goukin Ame",
   "author": "Ryukishi07, Konami",
   "cover": "https://64.media.tumblr.com/8397faf0c0ac7eac9c0bfa34476e498e/8fb51ad5f2c5794b-3b/s1280x1920/55eb60b1b7f58c7a033450e6fd02a1557cd383d8.jpg",
-  "chapters": {}
+  "chapters": {
+    "3.2": {
+      "title": "3.2",
+      "volume": "",
+      "last_updated": "1794745892",
+      "groups": {
+        "tsukiyonoinerime": [
+          "https://i.imgur.com/NLLAsAz.png",
+          "https://i.imgur.com/4Klnnxz.png",
+          "https://i.imgur.com/2XtnHOi.png",
+          "https://i.imgur.com/5IlPIKR.png",
+          "https://i.imgur.com/HQfNgVL.png",
+          "https://i.imgur.com/V6R9ymX.png",
+          "https://i.imgur.com/2o2Za5I.jpeg",
+          "https://i.imgur.com/4UERvfq.png",
+          "https://i.imgur.com/Vjojjbl.png",
+          "https://i.imgur.com/pUVN8vH.png",
+          "https://i.imgur.com/Th6C7oB.png",
+          "https://i.imgur.com/jjWB8aL.png",
+          "https://i.imgur.com/UX65yKM.png",
+          "https://i.imgur.com/EHndyut.png",
+          "https://i.imgur.com/fvJBoAR.png",
+          "https://i.imgur.com/a4IoLa0.png"
+        ]
+      }
+    }
+  }
 }
